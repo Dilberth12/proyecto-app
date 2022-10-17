@@ -1,0 +1,28 @@
+label{
+    display: inline-block;
+    width: 100px;
+    padding: 5px;
+    margin-left:50px ;
+    margin-bottom:5px ;
+    background-color: rgb(204, 199, 199);
+    border-radius: 5px;
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(180, 184, 212);
+}
+button{
+    border-radius: 10px;
+    background-color: #65C8EB;
+    padding: 5px 15px;
+    margin-left: 70px;
+    border: none;
+}
+h2{
+    color: #3617bd;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 3px;
+}

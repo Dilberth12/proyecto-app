@@ -1,0 +1,30 @@
+table{
+    width: 50%;
+   /*  border-collapse: collapse; */
+    margin-left: 10px;
+    padding-left: 20px; 
+}
+td{
+    /* border: 2px solid blue; */
+    padding-right: 100px;
+    border-radius: 3px;
+    background-color: #2a7e7a98;
+    padding-left: 8px;
+   
+}
+.cabecera{
+    background-color: #098E88;
+    color: gainsboro;
+    background-color: #15477D;
+    
+}
+.centro{
+    text-align: center;
+    background-color: #098E88;
+    color: whitesmoke;
+    padding: 5px 10px ;
+}
+h1{
+    color: #15477D;
+    margin-left: 30px;
+}
